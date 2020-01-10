@@ -1,0 +1,12 @@
+{
+    "name": "vietvang/meta_image",
+    "description": "Du an php",
+    "authors": [
+        {
+            "name": "thienphamstu",
+            "email": "52187201+0356581777@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

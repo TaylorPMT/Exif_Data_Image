@@ -1,0 +1,56 @@
+            * {
+                padding: 0;
+                box-sizing: border-box;
+                margin: 0;
+                font-family: 'Roboto', sans-serif;
+            }
+            
+            header {
+                top: 0;
+                background-color: #39CCCC;
+            }
+            
+            footer {
+                width: 100%;
+                /* Height of the footer */
+                background: #39CCCC;
+            }
+            /*footer*/
+            
+            .title-footer {
+                margin: 10px;
+                font-size: 1rem;
+                text-align: center;
+                font-weight: bold;
+            }
+            
+            .text-footer {
+                text-align: justify;
+                display: block;
+            }
+            /*main*/
+            /*main*/
+            
+            .card-text {
+                min-height: 30px;
+            }
+            
+            main {
+                min-height: 1000px;
+            }
+            
+            .image-list {
+                margin: 0px 5px;
+                width: 400px;
+            }
+            
+            .image-size {
+                min-height: 200px;
+                max-height: 200px;
+            }
+            
+            .name-device {
+                text-transform: uppercase;
+                font-size: 1rem;
+                text-align: center;
+            }
